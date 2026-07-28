@@ -26,7 +26,11 @@ This f\*\*k is licensed under DWTFYWTPL, which stands for Do What The F\*\*k You
 
 **尽情享用！祝好运！**
 
----
+## Why No Issues? / 为什么不能提Issues？
+
+Because you may do whatever the fuck you want to this sh*t, and I will not be responsible to fix anything for you. Fork it if you like.
+
+因为你可以想做什么就做什么，我也没义务为你修复任何东西，如果你喜欢赤石，那就直接fork就好了。
 
 ## References / 引用
 
