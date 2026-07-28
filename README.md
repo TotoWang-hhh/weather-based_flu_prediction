@@ -2,6 +2,10 @@
 
 > AI造AI之——能够根据天气瞎猜流感病例数的纯粹的石（中文介绍在后）
 
+<a href="http://www.wtfpl.net/"><img
+       src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
+       width="80" height="15" alt="WTFPL" /></a>
+
 ## Introduction
 
 This is a piece of sh\*t that I vibed for a research program, and I hereby kindly smash it into your mouth.
