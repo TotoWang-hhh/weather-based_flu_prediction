@@ -28,9 +28,9 @@ This f\*\*k is licensed under DWTFYWTPL, which stands for Do What The F\*\*k You
 
 ## Why No Issues? / 为什么不能提Issues？
 
-Because you may do whatever the fuck you want to this sh*t, and I will not be responsible to fix anything for you. Fork it if you like.
+Because you may do whatever the fuck you want to this sh\*t, and I will not be responsible to fix anything for you. Fork it if you like. If you want to argue or comment, just go to Discussions.
 
-因为你可以想做什么就做什么，我也没义务为你修复任何东西，如果你喜欢赤石，那就直接fork就好了。
+因为你可以想做什么就做什么，我也没义务为你修复任何东西，如果你喜欢赤石，那就直接fork就好了。如果你想喷我，或者对这坨石发表任何评价，请考虑Discussions。
 
 ## References / 引用
 
